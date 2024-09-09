@@ -3036,7 +3036,7 @@
    "duration": 14.847681,
    "end_time": "2023-01-07T07:06:56.053253",
    "environment_variables": {},
-   "exception": null,
+   "exception": None,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
