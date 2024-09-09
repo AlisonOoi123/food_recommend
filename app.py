@@ -77,8 +77,6 @@ Original file is located at
     https://colab.research.google.com/drive/15phcJQn_7wk-m1Kcu3_igj3o-pWpb2d3
 """
 
-pip install streamlit pandas numpy scipy
-
 # IMPORTANT: RUN THIS CELL IN ORDER TO IMPORT YOUR KAGGLE DATA SOURCES
 # TO THE CORRECT LOCATION (/kaggle/input) IN YOUR NOTEBOOK,
 # THEN FEEL FREE TO DELETE THIS CELL.
