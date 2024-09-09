@@ -8,7 +8,7 @@ from scipy.sparse.linalg import svds
 @st.cache
 def load_data():
     # Load your dataset (Assume the dataset is preprocessed as pivot_df)
-    data_path = 'https://raw.githubusercontent.com/your-username/your-repo/main/amazon_reviews.csv'
+    data_path = 'https://raw.githubusercontent.com/AlisonOoi123/food_recommend/main/amazon_reviews.csv'
     df = pd.read_csv(data_path)
   # Update with actual path
     df = pd.read_csv(data_path)
